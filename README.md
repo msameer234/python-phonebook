@@ -5,4 +5,4 @@
 
 [*] No database like MySQL is linked.(Using Dictionary)
 
-Copyright @msameer234
+
